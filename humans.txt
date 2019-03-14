@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Daniel Ljungqvist daniel.ljungqvist@knowit.se @daniel
 
 # THANKS
 
