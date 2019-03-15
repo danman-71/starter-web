@@ -21,4 +21,4 @@ Please fork this repo and then issue pull requests for review.
 
 ### Copyright
 
-2019 Daniel L.
+2019 Daniel L. All rights reserved.
